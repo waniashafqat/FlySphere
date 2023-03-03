@@ -1,6 +1,11 @@
 # FlySphere
 ## FlySphere: Vacation Rental Service
 
+<p align="center">
+  <a href="http://endless.horse">
+    <img src=moon.gif alt="spinning-moon" />
+  </a>
+</p>
 
 ## Chapter 01: Preface 
 
